@@ -1,0 +1,11 @@
+# Site settings
+title: Python 基础教程
+email: jia.liu@ctrip.com
+description: > 
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://git.dev.ctrip.com"
+
+# Build settings
+markdown: redcarpet
+extensions: [fenced_code_blocks]
