@@ -7,5 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://git.dev.ctrip.com"
 
 # Build settings
+permalink: /:title.html
+timezone: Asia/Shanghai
 markdown: redcarpet
 extensions: [fenced_code_blocks]
