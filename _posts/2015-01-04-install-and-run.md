@@ -16,9 +16,6 @@ create: 2015-01-04 00:22:24 +0800
 ## CentOS
 sudo yum install -y python
 
-### 携程的python
-sudo yum install -y pythonctrip #名字不记得了, 记到到公司修改
-
 ## ubuntu
 sudo apt-get install python
 
